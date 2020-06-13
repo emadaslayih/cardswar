@@ -1,2 +1,1 @@
-# cardswar
-cards war
+# smarthouse
